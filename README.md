@@ -1,5 +1,3 @@
-# EmployeeApp-Backend-
-
 EmployeeApp developed in Spring Boot and Angular
 
 # Functions of this EmployeeApp
