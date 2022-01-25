@@ -1,5 +1,6 @@
-# EmployeeApp developed in Spring Boot and Angular
+# EmployeeApp-Backend-
 
+EmployeeApp developed in Spring Boot and Angular
 
 # Functions of this EmployeeApp
 It allows user to add, update, delete, search employees.
