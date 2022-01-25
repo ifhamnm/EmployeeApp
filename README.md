@@ -1,6 +1,6 @@
 # EmployeeApp developed in Spring Boot and Angular
 - Backend - Spring Boot
-- Frontend - Angular
+- Frontend - Angular (https://github.com/ifhamnm/EmployeeApp-Frontend-)
 
 
 # Functions of this EmployeeApp
